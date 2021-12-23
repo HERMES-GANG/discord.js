@@ -1,0 +1,7 @@
+
+    client.user.setActivity("", { // "" status message to enter
+        status: "online", // online, dnd
+        type: "PLAYING", // PLAYING, WATCHING, LISTENING, STREAMING
+        url: "" // Insert a link or delete a line
+    });
+});
